@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div>
 # Clone Projects Collection
 
@@ -35,3 +36,6 @@ Each clone project is contained in its own directory within this repository. To 
 
 Contributions are welcome! If you have any improvements or new clone ideas, feel free to fork this repository, make your changes, and submit a pull request. Please ensure that your code follows the project's coding standards and includes appropriate documentation.
 </div>
+=======
+# CLONES
+>>>>>>> bbab5e16d494cf5a715e5f1e9ff5015f29500048
